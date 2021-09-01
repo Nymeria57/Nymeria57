@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nymeria57
-- 👀 I’m interested in being a DATA SCIENTIST
+- 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
